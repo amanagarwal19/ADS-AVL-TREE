@@ -56,8 +56,6 @@ class avltree{
 
 AVL Operations:
 
-/code
-
 ```java
 // SETUP
 static AVLTree Initialize(){..}                     // Initialize the main AVL tree
