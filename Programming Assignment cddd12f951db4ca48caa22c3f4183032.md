@@ -90,7 +90,7 @@ String helperUtility(ArrayList<Integer> result){..} // helper to format the outp
 
 ### Part 3: CodeFlow
 
-![Untitled Diagram.drawio-5.png](Programming%20Assignment%20cddd12f951db4ca48caa22c3f4183032/Untitled_Diagram.drawio-5.png)
+![Untitled Diagram.drawio-5.png](Untitled_Diagram.drawio-5.png)
 
 ### Part 4: Basic Function definitions:
 
@@ -106,7 +106,7 @@ String helperUtility(ArrayList<Integer> result){..} // helper to format the outp
 
 ### Part 5: Sample run output on CISE server
 
-![Screenshot 2022-11-14 at 6.43.46 PM.png](Programming%20Assignment%20cddd12f951db4ca48caa22c3f4183032/Screenshot_2022-11-14_at_6.43.46_PM.png)
+![Screenshot 2022-11-14 at 6.43.46 PM.png](Screenshot_2022-11-14_at_6.43.46_PM.png)
 
 ### Part 6: Complexity:
 
